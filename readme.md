@@ -1,5 +1,5 @@
 
-This is a simple File Browser User Interface that allows the user to: 
+This is a File Browser User Interface that allows the user to: 
 
 1) navigate through files and directories
 
